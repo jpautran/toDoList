@@ -29,7 +29,7 @@ This project was developed with:
 ```bash
 
 # Clone this repository using
-$ git clone https://github.com/jpautran/
+$ git clone https://github.com/jpautran/toDoList
 
 ```
 ---
